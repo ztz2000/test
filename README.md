@@ -32,7 +32,7 @@ The performance results are are as follows:
 |    **Citeseer**     |     42.04     |  37.55  | **56.32**  |
 
 <center>Table 1：node classification results with the first three classes as "unseen"</center>
-<br/>
+
 
 
 | **Datasets/Models** | **NodeFeats** | **GCN** | **RECT-L** |
@@ -40,4 +40,4 @@ The performance results are are as follows:
 |      **Cora**       |     47.56     |  56.91  | **69.30**  |
 |    **Citeseer**     |     42.04     |  45.69  | **61.85**  |
 
-<center>Table 2：node classification results with the last two classes as "unseen"</center><br/>
+<center>Table 2：node classification results with the last two classes as "unseen"</center>
