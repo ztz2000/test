@@ -31,7 +31,7 @@ The performance results are are as follows:
 |      **Cora**       |     47.56     |  51.26  | **68.60**  |
 |    **Citeseer**     |     42.04     |  37.55  | **56.32**  |
 
-<center>Table 1：node classification results with the first three classes as "unseen"</center>
+<center>Table 1：node classification results with the first three classes as "unseen"</center><br/>
 
 
 
