@@ -41,4 +41,3 @@ The performance results are are as follows:
 |    **Citeseer**     |     42.04     |  45.69  | **61.85**  |
 
 <center>Table 2：node classification results with the last two classes as "unseen"</center>
-<br/>
