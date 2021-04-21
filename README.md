@@ -33,7 +33,7 @@ The performance results are are as follows:
 
 <center>Table 1：node classification results with the first three classes as "unseen"</center>
 <br/>
-
+<br/>
 
 
 | **Datasets/Models** | **NodeFeats** | **GCN** | **RECT-L** |
